@@ -15,9 +15,6 @@ bottom_row = board[2]
 try:
     if player_or_comp == 1:"""
 
-
-
-
 playing = True
 
 move = 1
